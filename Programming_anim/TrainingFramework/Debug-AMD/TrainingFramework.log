@@ -1,0 +1,104 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TrainingFramework.cpp
+  GSPlay.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(35,60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(35,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(230,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(1428): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[10],TEXT_COLOR,double>(_Ty &,std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[10],TEXT_COLOR &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2072): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[10],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[10],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2072): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[10],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[10],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSPlay.cpp(42): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[10],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[10],TEXT_COLOR &&,double &&)' being compiled
+  GSMenu.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(26,60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(26,42): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(32,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(42,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(54,57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(230,33): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(1428): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(_Ty &,std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2072): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2072): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+          with
+          [
+              _Ty=Text
+          ]
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSMenu.cpp(53): message : see reference to function template instantiation 'std::shared_ptr<Text> std::make_shared<Text,std::shared_ptr<Shaders>&,std::shared_ptr<Font>&,const char(&)[12],TEXT_COLOR,double>(std::shared_ptr<Shaders> &,std::shared_ptr<Font> &,const char (&)[12],TEXT_COLOR &&,double &&)' being compiled
+  GSIntro.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSIntro.cpp(26,54): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSIntro.cpp(26,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameStates\GSIntro.cpp(31,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  GameStateMachine.cpp
+  GameStatebase.cpp
+  Texture.cpp
+  Text.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(171,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(172,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(182,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Text.cpp(183,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SpriteAnimation.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(105,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(110,39): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(138,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(139,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(149,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\SpriteAnimation.cpp(150,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Shaders.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(21,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(21,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(25,3): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(32,3): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(44,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Shaders.cpp(44,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'const std::string'
+  Models.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(10,3): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(13,2): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(25,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(35,12): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(40,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(62,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Models.cpp(68,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Sprite3D.cpp
+  Camera.cpp
+  Sprite2D.cpp
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Sprite2D.cpp(143,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Sprite2D.cpp(144,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Sprite2D.cpp(154,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Desktop\Programming_anim\TrainingFramework\src\GameObject\Sprite2D.cpp(155,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GameButton.cpp
+  Font.cpp
+  ResourceManagers.cpp
+  Application.cpp
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TrainingFramework.vcxproj -> C:\Users\Admin\Desktop\Programming_anim\\BIN-AMD\TrainingFramework.exe

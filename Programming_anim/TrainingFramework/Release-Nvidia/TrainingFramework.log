@@ -1,0 +1,17 @@
+﻿  OptWinObject.cpp
+c:\users\admin\desktop\programming_anim\trainingframework\OptWinObject.h(25): error C2086: 'GLfloat OptWinObject::m_frameTime': redefinition
+  c:\users\admin\desktop\programming_anim\trainingframework\OptWinObject.h(24): note: see declaration of 'OptWinObject::m_frameTime'
+OptWinObject.cpp(101): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+OptWinObject.cpp(106): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+OptWinObject.cpp(209): error C2572: 'OptWinObject::AddButton': redefinition of default argument: parameter 1
+  c:\users\admin\desktop\programming_anim\trainingframework\OptWinObject.h(42): note: see declaration of 'OptWinObject::AddButton'
+OptWinObject.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OptWinObject.cpp(227): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OptWinObject.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+OptWinObject.cpp(237): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+Player.cpp(59): error C2572: 'Player::AddState': redefinition of default argument: parameter 1
+  c:\users\admin\desktop\programming_anim\trainingframework\Player.h(70): note: see declaration of 'Player::AddState'
+Player.cpp(87): warning C4244: '=': conversion from 'GLfloat' to 'GLint', possible loss of data
+Player.cpp(156): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+Player.cpp(161): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
